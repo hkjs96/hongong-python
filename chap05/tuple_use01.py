@@ -10,4 +10,4 @@ a, b, c = 10, 20, 30
 print("# 괄호가 없는 튜플을 활용한 할당")
 print("a:", a)
 print("b:", b)
-print("c:",c)
+print("c:", c)
